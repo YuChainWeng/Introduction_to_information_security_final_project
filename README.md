@@ -2,6 +2,8 @@ Orignial author:　https://github.com/WanyuGroup/TIFS2022-Solitude
 
 paper: https://wanyu-lin.github.io/assets/pdf/wanyu-tifs2022.pdf
 
+our presetaion ppt: https://www.canva.com/design/DAGqDxqvNDw/1Nqfp_GlSIMkaVxImjhUNA/view?utm_content=DAGqDxqvNDw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h796dc1f22f
+
 ---
 
 ### Our Running Set up
